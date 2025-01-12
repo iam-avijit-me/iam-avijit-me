@@ -34,19 +34,12 @@ I'm currently diving deeper into:
 ---
 
 ## 💬 Let's Connect
-- **Website:** [![Website](https://img.shields.io/badge/Website-avijit.me-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://avijit.me)
-- **Email:** [![Email](https://img.shields.io/badge/Email-hello@avijit.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@avijit.me)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-iam--avijit--me-blue?style=flat-square)](https://www.linkedin.com/in/iam-avijit-me)
-- **Twitter (X):** [![Twitter](https://img.shields.io/badge/Twitter-iam__avijit__me-1DA1F2?style=flat-square)](https://x.com/iam_avijit_me)
-- **Facebook:** [![Facebook](https://img.shields.io/badge/Facebook-iam.avijit.me-1877F2?style=flat-square)](https://facebook.com/iam.avijit.me)
-- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-iam.avijit.me-E4405F?style=flat-square)](https://instagram.com/iam.avijit.me)
-
----
-
-## 🗣️ Languages
-- English
-- Bengali
-- Hindi
+[![Website](https://img.shields.io/badge/-avijit.me-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avijit.me) 
+[![Email](https://img.shields.io/badge/-hello@avijit.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@avijit.me) 
+[![LinkedIn](https://img.shields.io/badge/-iam--avijit--me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-avijit-me) 
+[![X](https://img.shields.io/badge/-iam__avijit__me-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iam_avijit_me) 
+[![Facebook](https://img.shields.io/badge/-iam.avijit.me-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iam.avijit.me) 
+[![Instagram](https://img.shields.io/badge/-iam.avijit.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iam.avijit.me)
 
 ---
 
